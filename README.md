@@ -19,11 +19,11 @@
 ---
 
 ## 📄 Resume:
-[Niaj-Morshed-Resume.pdf.pdf](https://github.com/user-attachments/files/27060839/Niaj-Morshed-Resume.pdf.pdf)
+[Niaj-Morshed-Resume.pdf.pdf](https://github.com/user-attachments/files/27060839/Niaj-Morshed-Resume.pdf)
 
 
 <p align="center">
-  <a href="[https://github.com/Niaj-Morshed/](https://github.com/user-attachments/files/27060839/Niaj-Morshed-Resume.pdf.pdf)" target="_blank">
+  <a href="[https://github.com/Niaj-Morshed/](https://github.com/user-attachments/files/27060839/Niaj-Morshed-Resume.pdf)" target="_blank">
     <img src="https://img.shields.io/badge/Click%20Here-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
