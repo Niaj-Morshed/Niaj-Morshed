@@ -19,7 +19,8 @@
 ---
 
 ## 📄 Resume:
-[Niaj-Morshed-Resume.pdf.pdf](https://github.com/user-attachments/files/27060839/Niaj-Morshed-Resume.pdf)
+
+[Niaj-Morshed-Resume.pdf](https://github.com/user-attachments/files/27061006/Niaj-Morshed-Resume.pdf)
 
 
 <p align="center">
