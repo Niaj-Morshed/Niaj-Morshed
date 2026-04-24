@@ -20,11 +20,6 @@
 
 ## 📄 Resume:
 
-
-https://drive.google.com/file/d/1s9VfvR5cnulkpaB9OZ5PPQe2NrMOrn6H/view?usp=sharing
-
-<h2 align="center">📄 Resume</h2>
-
 <p align="center">
   <a href="https://drive.google.com/file/d/1s9VfvR5cnulkpaB9OZ5PPQe2NrMOrn6H/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Click%20Here-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
