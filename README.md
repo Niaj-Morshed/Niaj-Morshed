@@ -16,7 +16,7 @@
 - 🎯 Goal: Become a professional Full Stack Developer
 - 💼 Currently preparing for freelancing
 
----
+--- 
 
 ## 📄 Resume:
 
