@@ -18,6 +18,14 @@
 
 ---
 
+## 📄 Resume:
+<p align="center">
+  <a href="https://github.com/Niaj-Morshed/REPO-NAME/raw/main/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Click%20Here-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
+
 ## 🛠️ Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
