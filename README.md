@@ -19,7 +19,6 @@
 --- 
 
 ## 📄 Resume:
-
 <p align="center">
   <a href="https://drive.google.com/file/d/1s9VfvR5cnulkpaB9OZ5PPQe2NrMOrn6H/preview">
     <img src="https://img.shields.io/badge/Click%20Here-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
@@ -30,7 +29,6 @@
 
 
 ## 🛠️ Skills
-
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
