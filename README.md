@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=5000&pause=1000&color=2780F5&center=true&vCenter=true&width=800&lines=Bismillahir+Rahmanir+Raheem;Assalamu+alaikum+wa+rahmatullah+🙏" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=5000&pause=1000&color=2780F5&center=true&vCenter=true&width=1000&lines=🌸+Bismillahir+Rahmanir+Raheem+🌸;Assalamu+alaikum+wa+rahmatullah+🙏" />
 </p>
+
 
 
 # Hi 👋, I'm Niaj Morshed
