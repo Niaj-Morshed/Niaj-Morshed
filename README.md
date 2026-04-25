@@ -4,6 +4,10 @@
 
 
 
+<img width="1810" height="621" alt="Capture2" src="https://github.com/user-attachments/assets/e16db685-86dd-424a-908e-992003ab90ef" />
+
+
+
 # Hi 👋, I'm Niaj Morshed
 
 💻 Frontend Web Developer (Beginner Freelancer)
