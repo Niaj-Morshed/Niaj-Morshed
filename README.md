@@ -71,35 +71,35 @@ technologies to transition into a professional **Full Stack Developer**.
 
 ## 📂 My Featured Projects
 🚀 Premium SaaS & Dashboards
-    * 🤖 NexTask – AI-Powered SaaS Landing Page
-    * 📊 NexGen – Advanced eCommerce Admin Dashboard
-    * 💰 Expense Tracker – Smart Personal Finance Manager
+      * 🤖 NexTask – AI-Powered SaaS Landing Page
+      * 📊 NexGen – Advanced eCommerce Admin Dashboard
+      * 💰 Expense Tracker – Smart Personal Finance Manager
 
 🛍️ E-commerce & Business Sites
-    * 🐾 PAWS & CLAWS – Elite Pet Boutique Shop
-    * 🥗 THE HARVEST – Premium Organic Kitchen
-    * 🌳 GREEN-O – Sustainable Tree E-shop
-    * 🏎️ VELOCITY – High-End Car Sales Platform
-    * 🏍️ MOTO-ELITE – Premium Bike accessories Shop
-    * 💡 LUMINA Core – Elegant Lighting Solutions
-    * 💄 DECO.SENSE – Luxury Cosmetic & Skincare Hub
-    * 👗 VOGUE-VISTA – Trendy Female Fashion Boutique
-    * 📱 TECH-TITAN – Ultimate Gadget & Tech Store
-    * 📺 ARCTIC-CORE – Home Appliances & Electronics
-    * 🛋️ MINIMALIST LIVING – Modern Furniture Shop
-    * 👟 STEP.LUXE – Premium Footwear Collection
-    * 📚 Book Haven – Digital Bookstore Experience
+      * 🐾 PAWS & CLAWS – Elite Pet Boutique Shop
+      * 🥗 THE HARVEST – Premium Organic Kitchen
+      * 🌳 GREEN-O – Sustainable Tree E-shop
+      * 🏎️ VELOCITY – High-End Car Sales Platform
+      * 🏍️ MOTO-ELITE – Premium Bike accessories Shop
+      * 💡 LUMINA Core – Elegant Lighting Solutions
+      * 💄 DECO.SENSE – Luxury Cosmetic & Skincare Hub
+      * 👗 VOGUE-VISTA – Trendy Female Fashion Boutique
+      * 📱 TECH-TITAN – Ultimate Gadget & Tech Store
+      * 📺 ARCTIC-CORE – Home Appliances & Electronics
+      * 🛋️ MINIMALIST LIVING – Modern Furniture Shop
+      * 👟 STEP.LUXE – Premium Footwear Collection
+      * 📚 Book Haven – Digital Bookstore Experience
 
 🏥 Professional Service Sites
-    * 🦷 Dental Care – Modern Clinic Appointment System
-    * ✂️ Barber Shop – Premium Grooming & Saloon Booking
-    * ✈️ Travel Vista – Dream Destination Booking Guide
-    * 🎬 Movie Hub – Cinematic Entertainment Discovery
+      * 🦷 Dental Care – Modern Clinic Appointment System
+      * ✂️ Barber Shop – Premium Grooming & Saloon Booking
+      * ✈️ Travel Vista – Dream Destination Booking Guide
+      * 🎬 Movie Hub – Cinematic Entertainment Discovery
 
 ⚡ Utility & Web Apps
-    * 🧠 Quiz Master – Interactive Knowledge Testing App
-    * 🌦️ Weather Pulse – Real-Time Local Forecast App
-    * ✅ NexTask (To-Do) – Smart Daily Task Manager
+      * 🧠 Quiz Master – Interactive Knowledge Testing App
+      * 🌦️ Weather Pulse – Real-Time Local Forecast App
+      * ✅ NexTask (To-Do) – Smart Daily Task Manager
 
 ---
 
@@ -117,7 +117,7 @@ technologies to transition into a professional **Full Stack Developer**.
   <a href="https://www.linkedin.com/in/niaj-morshed-894653159/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:niajmorshed.cse@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=niajmorshed.cse@gmail.com" target="_blank"
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.facebook.com/niajmorshed.noyon" target="_blank">
