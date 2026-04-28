@@ -35,28 +35,28 @@ technologies to transition into a professional **Full Stack Developer**.
 
  
 ## 🛠️ Skills
-### 🛠️ Languages & Core Skills
+#### 🛠️ Languages & Core Skills
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-### 🎨 Design & Interactivity
+#### 🎨 Design & Interactivity
 <p align="left">
   <img src="https://img.shields.io/badge/Responsive%20Design-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Responsive Design" />
   <img src="https://img.shields.io/badge/UI/UX%20Principles-FF5722?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />
   <img src="https://img.shields.io/badge/Animations-ScrollReveal-8A9BFD?style=for-the-badge&logo=javascript&logoColor=white" alt="Animations" />
 </p>
 
-### 📊 Data & Functionality
+#### 📊 Data & Functionality
 <p align="left">
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
   <img src="https://img.shields.io/badge/Local%20Storage-333333?style=for-the-badge&logo=json&logoColor=white" alt="Local Storage" />
   <img src="https://img.shields.io/badge/jsPDF-00B0FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="jsPDF" />
 </p>
 
-### ⚙️ Tools & Workflow
+#### ⚙️ Tools & Workflow
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
