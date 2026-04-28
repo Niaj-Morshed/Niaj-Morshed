@@ -70,12 +70,12 @@ technologies to transition into a professional **Full Stack Developer**.
 ---
 
 ## 📂 My Featured Projects
-🚀 Premium SaaS & Dashboards:
+1. 🚀 Premium SaaS & Dashboards:
       ** 🤖 NexTask – AI-Powered SaaS Landing Page
       ** 📊 NexGen – Advanced eCommerce Admin Dashboard
       ** 💰 Expense Tracker – Smart Personal Finance Manager
 
-🛍️ E-commerce & Business Sites
+2. 🛍️ E-commerce & Business Sites
       * 🐾 PAWS & CLAWS – Elite Pet Boutique Shop
       * 🥗 THE HARVEST – Premium Organic Kitchen
       * 🌳 GREEN-O – Sustainable Tree E-shop
@@ -90,13 +90,13 @@ technologies to transition into a professional **Full Stack Developer**.
       * 👟 STEP.LUXE – Premium Footwear Collection
       * 📚 Book Haven – Digital Bookstore Experience
 
-🏥 Professional Service Sites
+3. 🏥 Professional Service Sites
       * 🦷 Dental Care – Modern Clinic Appointment System
       * ✂️ Barber Shop – Premium Grooming & Saloon Booking
       * ✈️ Travel Vista – Dream Destination Booking Guide
       * 🎬 Movie Hub – Cinematic Entertainment Discovery
 
-⚡ Utility & Web Apps
+4. ⚡ Utility & Web Apps
       * 🧠 Quiz Master – Interactive Knowledge Testing App
       * 🌦️ Weather Pulse – Real-Time Local Forecast App
       * ✅ NexTask (To-Do) – Smart Daily Task Manager
