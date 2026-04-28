@@ -70,10 +70,10 @@ technologies to transition into a professional **Full Stack Developer**.
 ---
 
 ## 📂 My Featured Projects
-🚀 Premium SaaS & Dashboards
-      * 🤖 NexTask – AI-Powered SaaS Landing Page
-      * 📊 NexGen – Advanced eCommerce Admin Dashboard
-      * 💰 Expense Tracker – Smart Personal Finance Manager
+🚀 Premium SaaS & Dashboards:
+      ** 🤖 NexTask – AI-Powered SaaS Landing Page
+      ** 📊 NexGen – Advanced eCommerce Admin Dashboard
+      ** 💰 Expense Tracker – Smart Personal Finance Manager
 
 🛍️ E-commerce & Business Sites
       * 🐾 PAWS & CLAWS – Elite Pet Boutique Shop
@@ -117,7 +117,7 @@ technologies to transition into a professional **Full Stack Developer**.
   <a href="https://www.linkedin.com/in/niaj-morshed-894653159/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=niajmorshed.cse@gmail.com" target="_blank"
+  <a href="https://mail.google.com/mail/?view=cm&to=niajmorshed.cse@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.facebook.com/niajmorshed.noyon" target="_blank">
