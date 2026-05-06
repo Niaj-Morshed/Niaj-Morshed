@@ -24,9 +24,11 @@ technologies to transition into a professional **Full Stack Developer**.
 
 --- 
 
+
+
 ## 📄 Resume:
 <p align="center">
-  <a href="https://drive.google.com/file/d/1s9VfvR5cnulkpaB9OZ5PPQe2NrMOrn6H/preview">
+  <a href="https://drive.google.com/file/d/1QTy-_nGbXyaG4R5BbvQrpqXSlhdecQ4j/view?usp=sharing">
     <img src="https://img.shields.io/badge/Click%20Here-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
@@ -124,6 +126,7 @@ technologies to transition into a professional **Full Stack Developer**.
 ---
 
 ## 🌐 Digital Presence
-- **🚀 Portfolio:** `Coming Soon...` (Currently building a cinematic experience!)
+- **🚀 Portfolio: https://niaj-morshed-portfolio.netlify.app/
+- **🚀 Linkedin: https://www.linkedin.com/in/niaj-morshed-894653159/
 - **🐙 GitHub:** [Niaj-Morshed](https://github.com/Niaj-Morshed)
 - **💼 Freelance:** Available for **Frontend & UI/UX** projects.
